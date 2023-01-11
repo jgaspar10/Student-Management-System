@@ -1,5 +1,35 @@
 # Student-Management-System
-A Student management system using C# on the .NET Framework and MySQL (WIP)
+School Management System
+
+A system developed using C# and the Visual Studio IDE with the support of the .NET framework. This system allows authorized users to perform tasks such as adding, deleting, and reviewing student information, course offerings, and academic performance through the management of grades.
+
+Technology Stack
+
+C#
+Visual Studio IDE
+.NET Framework
+Features
+
+Manage student information
+Manage course offerings
+Review academic performance
+Management of grades
+
+How to Use
+
+Clone the repository to your local machine
+Open the project with Visual Studio
+Build and Run the project
+Login with the authorized credentials to access the features
+Contribute
+
+We welcome contributions to the project. If you want to contribute, please follow these steps:
+
+Fork the repository
+Create a new branch
+Make the necessary changes
+Submit a pull request
+
 ![home](https://user-images.githubusercontent.com/61797706/199290348-dfed0bd1-dc10-4841-8f60-a78680bc01c2.PNG)
 ![add course](https://user-images.githubusercontent.com/61797706/199290343-f28d3e15-c774-4c1f-8953-3d89d1d62ae1.PNG)
 ![course management](https://user-images.githubusercontent.com/61797706/199290347-be997561-a3d8-4ddd-b4fa-f45abae2d088.PNG)
