@@ -3,32 +3,33 @@ School Management System
 
 A system developed using C# and the Visual Studio IDE with the support of the .NET framework. This system allows authorized users to perform tasks such as adding, deleting, and reviewing student information, course offerings, and academic performance through the management of grades.
 
-Technology Stack
+# Technology Stack
 
-C#
-Visual Studio IDE
-.NET Framework
-Features
+- C#
+- Visual Studio IDE
+- .NET Framework
 
-Manage student information
-Manage course offerings
-Review academic performance
-Management of grades
+# Features
 
-How to Use
+- Manage student information
+- Manage course offerings
+- Review academic performance
+- Management of grades
 
-Clone the repository to your local machine
-Open the project with Visual Studio
-Build and Run the project
-Login with the authorized credentials to access the features
-Contribute
+# How to Use
+
+1. Clone the repository to your local machine
+2. Open the project with Visual Studio
+3. Build and Run the project
+
+# Contribute
 
 We welcome contributions to the project. If you want to contribute, please follow these steps:
 
-Fork the repository
-Create a new branch
-Make the necessary changes
-Submit a pull request
+1.Fork the repository
+2. Create a new branch
+3. Make the necessary changes
+4. Submit a pull request
 
 ![home](https://user-images.githubusercontent.com/61797706/199290348-dfed0bd1-dc10-4841-8f60-a78680bc01c2.PNG)
 ![add course](https://user-images.githubusercontent.com/61797706/199290343-f28d3e15-c774-4c1f-8953-3d89d1d62ae1.PNG)
