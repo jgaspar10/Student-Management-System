@@ -6,8 +6,10 @@ A system developed using C# and the Visual Studio IDE with the support of the .N
 # Technology Stack
 
 - C#
+- WinForms
 - Visual Studio IDE
 - .NET Framework
+- MySQL
 
 # Features
 
